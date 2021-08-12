@@ -2,12 +2,20 @@
   "data": [ 
     {
       "id": 1,
-      "name": "百度云1",
-      "url": "https://m3u8.apibdzy.com/api.php/provide/vod/at/xml",
-      "cate": "动作作片,21&&喜剧片,22&&爱情片,23&&科幻片,24&&恐怖片,25&&动画电影,28&&国产剧,32&&韩国剧,59&&美国剧,35&&日本剧,34&&大陆综艺,37&&日韩综艺,38&&国产动漫,42&&日韩动漫,43&&欧美动漫,44",
+      "name": "泰剧迷",
+      "url": "https://www.taijumi.cc/api.php/provide/vod/at/xml",
+      "cate": "泰剧,2&&泰影,1&&韩剧,24",
       "click": true,
       "wePlus": {}
     },
+	  {
+      "id": 1,
+      "name": "影派",
+      "url": "https://v.dtjos.com/api.php/provide/vod/at/xml",
+      "cate": "综艺,3&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&国产动漫,21&&日本动漫,22",
+      "click": true,
+      "wePlus": {}
+},
 {
       "id": 1,
       "name": "百度云2",
